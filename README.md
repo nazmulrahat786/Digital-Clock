@@ -1,4 +1,4 @@
-# 🕰️ React Digital Clock
+#  Digital Clock
 
 A sleek, real-time digital clock built with **React** and **TailwindCSS**.  
 Features include dynamic greetings, 12/24-hour format toggle, dark/light mode, and a ticking sound effect.
